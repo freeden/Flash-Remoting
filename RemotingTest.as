@@ -22,7 +22,7 @@ package
 			//params.arg1 = "all";
 			//params.arg2 = "all23";
 			rs.call("work_service.get_medium_types", responder, "all", "123");
-			
+			// Edit
 			//rs.call("Test.objectTest", responder, params);
 		}
  
